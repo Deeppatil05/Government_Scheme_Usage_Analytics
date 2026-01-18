@@ -3,12 +3,15 @@
 # Government Scheme Usage Analytics (India-Focused)
 
 
-![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/8b0e093e37576fd288bea5ffdff2520a30d06353/ChatGPT%20Image%20Jan%2016%2C%202026%2C%2006_40_26%20PM.png)
+![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/baca32296aa8171a589df96c98d3d2aac018f90f/assets/ChatGPT%20Image%20Jan%2016%2C%202026%2C%2006_40_26%20PM.png)
 
 
 > **Advanced SQL Analytics Project (PostgreSQL)**
 
 ---
+
+**Note: The dataset used in this project is synthetic and created for analytical demonstration purposes.**
+
 
 ##  Project Objective
 
@@ -58,7 +61,7 @@ This project simulates a **real-world policy analytics scenario**, similar to wo
 
 
 #### Output
-<img width="722" height="212" alt="Image" src="https://github.com/user-attachments/assets/deabadf2-6f70-464d-9225-afac26c5fb8c" />
+![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/O-SU.png)
 
 
 **Insights:**
@@ -73,10 +76,9 @@ This project simulates a **real-world policy analytics scenario**, similar to wo
 **Goal:** Compare utilization efficiency across districts after normalization.
 
 #### SQL Query
-<img width="1115" height="343" alt="Image" src="https://github.com/user-attachments/assets/56e896d1-9bb9-4f24-8c07-ada40111ef81" />
-
+![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/DU.png)
 #### Output
-<img width="688" height="210" alt="Image" src="https://github.com/user-attachments/assets/0a61e142-37ce-4732-853e-552e1480e36c" />
+![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/O-DU.png)
 
 
 **Insights:**
@@ -90,11 +92,10 @@ This project simulates a **real-world policy analytics scenario**, similar to wo
 **Goal:** Classify schemes based on consistency of fund usage.
 
 #### SQL Query
-<img width="886" height="372" alt="Image" src="https://github.com/user-attachments/assets/ff5da167-c535-4ee7-a410-b82d26228549" />
+![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/SV.png)
 
 #### Output
-<img width="601" height="208" alt="Image" src="https://github.com/user-attachments/assets/ef0397ab-f227-4720-92b2-60f8b75c58a3" />
-
+![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/O-SV.png)
  **Categorized into:**
 - **Stable Spending** :- Consistent fund usage  
 - **Inconsistent Spending** :- High variability 
@@ -106,15 +107,15 @@ This project simulates a **real-world policy analytics scenario**, similar to wo
 Dashboards were created using **pgAdmin Graph Visualizer**.
 
 ### Scheme Utilization Dashboard
-<img width="1283" height="502" alt="Image" src="https://github.com/user-attachments/assets/4f7029db-ff13-4c7d-8c80-6dda1c4d831c" />
+![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/G-SU.png)
 
 
 ### District Efficiency Dashboard
-<img width="1277" height="476" alt="Image" src="https://github.com/user-attachments/assets/84cf3654-accd-40b6-9630-6fcba3787475" />
+![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/G-DU.png)
 
 
 ### Scheme Stability Dashboard
-<img width="1282" height="577" alt="Image" src="https://github.com/user-attachments/assets/60cc6c0e-25e2-4b75-b69b-e462388590f6" />
+![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/G-SV.png)
 
 
 ---
@@ -125,9 +126,7 @@ This project addresses the following key business questions:
 
 1. **.How much money was allocated vs how much was actually utilized across all government schemes?**
    
-
-   <img width="558" height="268" alt="Image" src="https://github.com/user-attachments/assets/3e03199e-d754-4272-a608-9761857e9496" />
-   
+![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/Q1.png)
 
 - Analyzed budget efficiency by comparing total fund allocations with actual utilization to identify under-utilized public schemes.
 
@@ -135,7 +134,7 @@ This project addresses the following key business questions:
    
 2. **Which government schemes are efficiently utilizing their allocated funds and which are underperforming?**
 
-   <img width="691" height="407" alt="Image" src="https://github.com/user-attachments/assets/7fe16389-bee5-48c8-96c9-649549ea5b2f" />
+   ![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/Q2.png)
    
 
 * High utilization (>20%):-
@@ -153,8 +152,7 @@ This project addresses the following key business questions:
 3. **Which districts are utilizing government funds effectively and which are lagging behind?**
    
 
-   <img width="527" height="232" alt="Image" src="https://github.com/user-attachments/assets/d634ff45-d353-4c75-a242-b7339d8b9cae" />
-   
+  ![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/Q3.png)
 
 - District-wise analysis reveals uneven fund absorption, highlighting the need for targeted administrative strengthening in lagging districts.
   
@@ -163,7 +161,7 @@ This project addresses the following key business questions:
 4. **Which districts are more efficient in utilizing funds relative to the schemes implemented within them?**
    
 
-   <img width="717" height="360" alt="Image" src="https://github.com/user-attachments/assets/dcbd3c83-88a1-4b08-9634-6af6c854024d" />
+  ![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/Q4.png)
    
 
 - District-level utilization efficiency shows limited variation, indicating systemic execution constraints rather than localized administrative failures.
@@ -175,8 +173,7 @@ This project addresses the following key business questions:
 
 1. **Identify Under-Utilized Schemes**
    
-   <img width="736" height="376" alt="Image" src="https://github.com/user-attachments/assets/28e69082-4532-4c64-a305-8e2cd35a384c" />
-   
+  ![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/Q5.png)
 
 - This query highlights schemes that are naturally under-utilized due to timing, approvals, or processes, helping focus administrative support instead of simply increasing budgets.
      
@@ -184,7 +181,7 @@ This project addresses the following key business questions:
     
 2. **Districts at Financial Execution Risk.**
 
-   <img width="840" height="442" alt="Image" src="https://github.com/user-attachments/assets/7b68307c-1bce-443e-aefc-2e0ab7c273aa" />
+ ![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/Q6.png)
    
 
 * Low Utilization ≠ Problem
@@ -198,8 +195,7 @@ This project addresses the following key business questions:
 3. **Scheme Stability Index (Advanced Metric).Identify schemes with consistent utilization behavior(Stable execution is valued more than spikes)**
    
 
-   <img width="743" height="311" alt="Image" src="https://github.com/user-attachments/assets/f2525bdf-7c71-43ff-a139-3d1d094ca746" />
-
+  ![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/Q7.png)
 
 Low volatility :- predictable governance
 High volatility :- funding shocks / admin issues
