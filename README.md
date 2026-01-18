@@ -54,7 +54,7 @@ This project simulates a **real-world policy analytics scenario**, similar to wo
 **Goal:** Identify how efficiently each government scheme uses allocated funds.
 
 #### SQL Query
-![image alt](<img width="991" height="330" alt="Image" src="https://github.com/user-attachments/assets/d2cf6136-ed5c-47c2-a9f6-b8fdf485032e" />)
+![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/95ff04dc9d11355209ebfc8e57dec7e50ea63b96/assets/SU.png)
 
 
 #### Output
