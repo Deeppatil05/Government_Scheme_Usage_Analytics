@@ -10,7 +10,7 @@
 
 ---
 
-**Note: The dataset used in this project is synthetic and created for analytical demonstration purposes.**
+## Note: The dataset used in this project is synthetic and created for analytical demonstration purposes.
 
 
 ##  Project Objective
@@ -124,7 +124,7 @@ Dashboards were created using **pgAdmin Graph Visualizer**.
 
 This project addresses the following key business questions:
 
-1. **.How much money was allocated vs how much was actually utilized across all government schemes?**
+**1. .How much money was allocated vs how much was actually utilized across all government schemes?**
    
 ![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/Q1.png)
 
@@ -132,7 +132,7 @@ This project addresses the following key business questions:
 
    
    
-2. **Which government schemes are efficiently utilizing their allocated funds and which are underperforming?**
+**2. Which government schemes are efficiently utilizing their allocated funds and which are underperforming?**
 
    ![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/Q2.png)
    
@@ -149,7 +149,7 @@ This project addresses the following key business questions:
   
      
 
-3. **Which districts are utilizing government funds effectively and which are lagging behind?**
+**3. Which districts are utilizing government funds effectively and which are lagging behind?**
    
 
   ![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/Q3.png)
@@ -158,7 +158,7 @@ This project addresses the following key business questions:
   
      
 
-4. **Which districts are more efficient in utilizing funds relative to the schemes implemented within them?**
+**4. Which districts are more efficient in utilizing funds relative to the schemes implemented within them?**
    
 
   ![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/Q4.png)
@@ -171,7 +171,7 @@ This project addresses the following key business questions:
  **Advanced Analytical Insights--**
 
 
-1. **Identify Under-Utilized Schemes**
+**1. Identify Under-Utilized Schemes**
    
   ![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/Q5.png)
 
@@ -179,7 +179,7 @@ This project addresses the following key business questions:
      
 
     
-2. **Districts at Financial Execution Risk.**
+**2. Districts at Financial Execution Risk.**
 
  ![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/Q6.png)
    
@@ -192,7 +192,7 @@ This project addresses the following key business questions:
 
      
 
-3. **Scheme Stability Index (Advanced Metric).Identify schemes with consistent utilization behavior(Stable execution is valued more than spikes)**
+**3. Scheme Stability Index (Advanced Metric).Identify schemes with consistent utilization behavior(Stable execution is valued more than spikes)**
    
 
   ![image alt](https://github.com/Deeppatil05/Government_Scheme_Usage_Analytics/blob/0a7ccb766a6c3534cece4e8b022b107c098a798c/assets/Q7.png)
