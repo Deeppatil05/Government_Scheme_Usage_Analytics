@@ -3,7 +3,7 @@
 # Government Scheme Usage Analytics (India-Focused)
 
 
-![Screenshot]<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/826272dd-e454-442c-a81f-8bedfded7b9c" />
+![image alt](image_url)ChatGPT Image Jan 16, 2026, 06_40_26 PM.png
 
 
 > **Advanced SQL Analytics Project (PostgreSQL)**
